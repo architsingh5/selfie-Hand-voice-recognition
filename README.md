@@ -17,6 +17,11 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the req
 ```bash
 pip install opencv-python playsound SpeechRecognition
 ```
+For speech Recognition it will also require pyaudio package. It can downloaded from [here](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio). Download .whl file according to your python version and architecture and then run the following command
+
+```bash
+pip install file_name.whl
+```
 
 ## Usage
 Run the given command in your terminal to run the program
