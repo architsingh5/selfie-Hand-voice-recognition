@@ -1,4 +1,4 @@
-# Selfie with Hand Recognition
+# Selfie with Hand or Voice Recognition
 
 Python script to add functionality to cameras to recognize open palm/detect specific voice command for capturing photos after 3 seconds.
 
